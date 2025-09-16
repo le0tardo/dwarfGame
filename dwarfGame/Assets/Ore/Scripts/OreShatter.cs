@@ -46,6 +46,7 @@ public class OreShatter : MonoBehaviour
     }
     public void ShatterRock(Vector3 shatterPoint)
     {
+        Debug.Log("Nu ska stenen gå sönder john!");
         intactRock.SetActive(false);
         shatteredRock.SetActive(true);
         particle.SetActive(true);
