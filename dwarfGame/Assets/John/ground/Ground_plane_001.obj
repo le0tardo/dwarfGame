@@ -1,0 +1,14 @@
+# This file uses meters as units for non-parametric coordinates.
+
+mtllib Ground_plane_001.mtl
+v -250.000000 0.000000 250.000000
+v 250.000000 0.000000 250.000000
+v -250.000000 0.000000 -250.000000
+v 250.000000 0.000000 -250.000000
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 0.000000 1.000000
+vt 1.000000 1.000000
+s off
+usemtl lambert4SG
+f 2/2 4/4 3/3 1/1
