@@ -3050,7 +3050,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 1
-  m_Color: {r: 0.4226913, g: 0.8423341, b: 0.96981126, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -5303,7 +5303,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f80fb22a0c1b23544aab83da785e47cb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.51
+      value: -1.0314939
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f80fb22a0c1b23544aab83da785e47cb, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5311,11 +5311,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f80fb22a0c1b23544aab83da785e47cb, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.95405
+      value: -3.150804
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f80fb22a0c1b23544aab83da785e47cb, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.8067987
+      value: 0.97967494
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f80fb22a0c1b23544aab83da785e47cb, type: 3}
       propertyPath: m_LocalRotation.x
@@ -5323,7 +5323,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f80fb22a0c1b23544aab83da785e47cb, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.5908264
+      value: 0.20059153
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f80fb22a0c1b23544aab83da785e47cb, type: 3}
       propertyPath: m_LocalRotation.z
@@ -5335,7 +5335,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f80fb22a0c1b23544aab83da785e47cb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 72.431
+      value: 23.143
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f80fb22a0c1b23544aab83da785e47cb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -6054,7 +6054,7 @@ Transform:
   m_GameObject: {fileID: 1350289672}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.75, y: 2.767, z: 2.896}
+  m_LocalPosition: {x: -2.46, y: 2.767, z: 6.75}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
