@@ -6,18 +6,18 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: caveFloor1
-  m_DiffuseTexture: {fileID: 2800000, guid: 7ef6a2f0d2fa09642a8a86aa50f7dd67, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: 366fadfec7c720c40880e13d3d4e98d5, type: 3}
-  m_MaskMapTexture: {fileID: 2800000, guid: 195c79c6cefd762499ad2e2e76c9a035, type: 3}
-  m_TileSize: {x: 6, y: 6}
+  m_Name: caveTerrain1b
+  m_DiffuseTexture: {fileID: 2800000, guid: b2aab925b8b6e3749ae63710b4b21f10, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 7b1dbcc8ef64bda40b2cd5ef306063a8, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: 688ee62a2950ad245b71b3c7819d3b1f, type: 3}
+  m_TileSize: {x: 8, y: 8}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
   m_Metallic: 0
   m_Smoothness: 0
   m_NormalScale: 1
   m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
-  m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
+  m_DiffuseRemapMax: {x: 0.8, y: 0.8, z: 0.8, w: 1}
   m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
   m_MaskMapRemapMax: {x: 1, y: 1, z: 1, w: 1}
   m_SmoothnessSource: 1
