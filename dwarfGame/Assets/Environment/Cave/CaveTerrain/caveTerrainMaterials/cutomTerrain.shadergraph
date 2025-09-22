@@ -32,6 +32,9 @@
         },
         {
             "m_Id": "a39463a46e1f40efa880b0b51e72f558"
+        },
+        {
+            "m_Id": "805d2cafdc254c42bcffad5b0ac2392c"
         }
     ],
     "m_Keywords": [],
@@ -3142,6 +3145,39 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Texture2DShaderProperty",
+    "m_ObjectId": "805d2cafdc254c42bcffad5b0ac2392c",
+    "m_Guid": {
+        "m_GuidSerialized": "7578f34a-1a3d-447a-b31c-959fd766dd06"
+    },
+    "m_Name": "Color",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "Color",
+    "m_DefaultReferenceName": "_Color",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_DismissedVersion": 0,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_PerRendererData": false,
+    "m_customAttributes": [],
+    "m_Value": {
+        "m_SerializedTexture": "",
+        "m_Guid": ""
+    },
+    "isMainTexture": false,
+    "useTilingAndOffset": false,
+    "useTexelSize": true,
+    "m_Modifiable": true,
+    "m_DefaultType": 0
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
     "m_ObjectId": "8528564052d3419e8b7c364eaf94e9d1",
     "m_Id": 1,
@@ -4292,6 +4328,9 @@
         },
         {
             "m_Id": "a39463a46e1f40efa880b0b51e72f558"
+        },
+        {
+            "m_Id": "805d2cafdc254c42bcffad5b0ac2392c"
         }
     ]
 }
