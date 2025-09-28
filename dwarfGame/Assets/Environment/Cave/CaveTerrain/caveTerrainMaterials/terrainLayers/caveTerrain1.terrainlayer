@@ -7,9 +7,9 @@ TerrainLayer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: caveTerrain1
-  m_DiffuseTexture: {fileID: 2800000, guid: 0d633e14da180274f9f9db3638df6e16, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: 7f86a8311b5c56d43ae00e459b2e51cb, type: 3}
-  m_MaskMapTexture: {fileID: 2800000, guid: 541c51d157b970641abb0e598f79ecb1, type: 3}
+  m_DiffuseTexture: {fileID: 2800000, guid: fb12d6f3fb387af4591a4cd09b421261, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 73915f18263c21b4e90a99d5e569b6da, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: 4b6646f3ab3f7d446abfa8445b703983, type: 3}
   m_TileSize: {x: 8, y: 8}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
