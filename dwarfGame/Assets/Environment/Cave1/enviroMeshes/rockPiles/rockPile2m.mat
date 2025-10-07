@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-9046161034208846705
+--- !u!114 &-139430081580907872
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: subsCaveFloor
-  m_Shader: {fileID: -6465566751694194690, guid: af26d65a985b9ef48baa2d1129a93325, type: 3}
+  m_Name: rockPile2m
+  m_Shader: {fileID: -6465566751694194690, guid: e0d2d5269d173c5458a0febfb1d89ee3, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -79,6 +79,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _customNormal:
+        m_Texture: {fileID: 2800000, guid: 7fcc9d48afbf36e4e919a09aa05265bf, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _triplane_color:
@@ -140,7 +144,6 @@ Material:
     - _WorkflowMode: 1
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
-    - _blend: 1.5
     - _tileSize: 0.123
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}

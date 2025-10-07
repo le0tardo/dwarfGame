@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: 251a40d7963e3e94b8ad42160c66dbb2
+guid: 2f442bf4baa0f444dbf8233c40b52582
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rockPile1_m
+    second: {fileID: 2100000, guid: 2aa415d1f8704724d9f16cc0982828e0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -32,10 +37,7 @@ ModelImporter:
     clipAnimations: []
     isReadable: 0
   meshes:
-    lODScreenPercentages:
-    - 0.25
-    - 0.125
-    - 0.01
+    lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
     addColliders: 0
