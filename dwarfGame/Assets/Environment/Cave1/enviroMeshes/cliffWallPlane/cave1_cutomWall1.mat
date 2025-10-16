@@ -73,15 +73,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _triplane_color:
-        m_Texture: {fileID: 2800000, guid: 2c972043528b65c4c9566953c33d5415, type: 3}
+        m_Texture: {fileID: 2800000, guid: df69f8aa714ea304a84c4fa55861ebd7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _triplane_mask:
-        m_Texture: {fileID: 2800000, guid: 9733749e1f529714bb7e81a5dc1fada3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 800bd1adf58448643914b6a109422790, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _triplane_normal:
-        m_Texture: {fileID: 2800000, guid: af3a0e1f0761cce4193af6d9a215eecd, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9c208f18d245f1147afb00d745176a1f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
